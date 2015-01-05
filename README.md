@@ -1,1 +1,1 @@
-* [Live Demo!](http://appacademy.github.io/hanoi.js/solution/html/hanoi.html)
+An implementation of the Towers of Hanoi puzzle in Javascript. Click a tower to pick up the topmost disc. Click another tower to place that disc on top of it. [Live Demo](http://benjyhirsch.github.io/jQueryHanoi).
